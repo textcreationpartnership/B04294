@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whitehall, October 18. 1697. Last night came in two mails from Holland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04294</idno>
+            <idno type="STC">Wing L498A</idno>
+            <idno type="STC">ESTC R179658</idno>
+            <idno type="EEBO-CITATION">51617606</idno>
+            <idno type="OCLC">ocm 51617606</idno>
+            <idno type="VID">175273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175273)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2726:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whitehall, October 18. 1697. Last night came in two mails from Holland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Below title: Published by authority.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Concerns the War of the Grand Alliance.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:175273:1"/>
+            <head>Whitehall, October 18. 1697. <hi>Laſt Night came in Two Mails from</hi> Holland.</head>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>Venice. October</hi> 4. N. S.</p>
+            <p>YEſterday arrived here a Veſſel from <hi>Smirna,</hi> and brought the News of another Sea Engagement be<g ref="char:EOLhyphen"/>tween the Venetians and the Turks, not far from <hi>Andros,</hi> which concluded very much to the ad<g ref="char:EOLhyphen"/>vantage of the former; Several of the Enemies Ships are ſaid to be ſunk or taken; and 7 of their great Ships cal<g ref="char:EOLhyphen"/>led Sul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anes being much ſhattered, run for ſhelter into a ſmall Port. where they were block'd up by the Venetians with hopes to deſtroy them; and the Captain-Baſſa <hi>Moz zomorto,</hi> with the reſt of the Turkiſh Fleet, was retired to <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>grepont;</hi> On our ſide only one Man of War called the <hi>St. Sebaſtian</hi> was loſt, which happened to take fire and blow up; This being related with ſo many particulars, ſeems to deſerve a great deal of credit; But the Senate have yet received no Account of this Action. 'Tis ſaid, that neither the Venetian nor Auxiliary Galleys were in this Battle, and that the latter are arrived at <hi>Corſon</hi> in their return home.</p>
+            <p>
+               <hi>Cracow. Oct.</hi> 2. The Dyet continue their meeting here, and have declared, that they will ſtand by, and aſſiſt the King to the utmoſt of their Power; They have de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to ſee the Original Inſtrument of the <hi>Pacta-Conventa,</hi> ſigned by the King, but were anſwered, that the ſame was lodged among the Records at <hi>Warſaw.</hi> Yeſterday the King diſ<g ref="char:EOLhyphen"/>poſed of two vacant Biſhopricks, and ſeveral Abbies, as alſo of 4 Governments of Provinces, with ſome other Of<g ref="char:EOLhyphen"/>fices and Employments. So ſoon as the Dyet is ended the King intends to go to the Army near <hi>Lemberg,</hi> to receive from them an Oath of Fidelity, and after that will repair to <hi>Warſaw;</hi> In the mean time he has ſent part of his Forces towards <hi>Pruſſia,</hi> to obſerve the Primate's Party; 'Tis ſaid the Saxon Troops now in rbe Emperor's Service, as well as others from <hi>Germany,</hi> are ordered to march to the Frontiers of <hi>Sileſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that they may be at hand in caſe there ſhould be need of them.</p>
+            <p>
+               <hi>Dantzicke, Oct.</hi> 12. The Prince of <hi>Conti</hi> has been twice aſhore here, and ſtayed ſeveral hours, but in the evening went a board again; He has been likewiſe ſeveral times at the Monaſtery of <hi>Oliva,</hi> not far from hence, where divers Gentlemen of <hi>Poland</hi> have attended him, but one of them, not thinking himſelf well enough re<g ref="char:EOLhyphen"/>ceived, went away in great diſcontent with 40 Horſe; Which the Prince was much concerned at. By the laſt Letters from <hi>Warſaw,</hi> the Primate would ſtay at his Houſe at <hi>Lowitz</hi> till the meeting of the Gentlemen, which he had appointed to be on the 10th Inſtant; upon the ſucceſs whereof all the hopes of his Party ſeem now to depend. The Crown General has writ to the Primate, to let him know, that he was empowered by the King, to enter into Conference with him, in order to accommodate Matters; To which the Primate anſwered, it was now too late. This City continues to raiſe Men, intending to make up their Gariſon to 4000. 'Tis ſaid, that <hi>Du Bart</hi>'s Squadron be<g ref="char:EOLhyphen"/>gins to be ſickly: Some of the Great Men adviſe the Prince of <hi>Conti</hi> to go to <hi>Lithuania.</hi>
+            </p>
+            <p>
+               <hi>Vienna. Oct. 9.</hi> The laſt Letters from the Imperial Army in <hi>Hungary</hi> are dated the firſt of this month at <hi>Sen<g ref="char:EOLhyphen"/>toua;</hi> They were marching towards the <hi>Danube</hi> in order to paſs that River at <hi>V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſmorton;</hi> after which the Forces would ſeparate, and go to Quarters; General <hi>Rabutin</hi> with the Troops under his command, had left the Army, and were marching back to <hi>Tranſilvania;</hi> and ſome Regiments were ſent to <hi>Upper-Hungary;</hi> Prince <hi>Eugene</hi> had received Advice, that the Sultan, after the late Battle, ſtayed ſeveral days at <hi>Belgrade</hi> to get together a ſufficient num<g ref="char:EOLhyphen"/>ber of Forces to convoy him in his Journey, being informed, that the Raſcians, and Heydukes were abroad in conſiderable Bodies, and had p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tted themſelves in his way, but this tear being removed, he went on towards <hi>Adrianople;</hi> and the Grand Vi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er having made the neceſſary proviſion to the ſecurity of <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>meſwaer</hi> would follow him in few days.</p>
+            <p>
+               <hi>Francfort, Oct.</hi> 13. On the 9th the Ceſtation of Arm was publiſhed in the German Army; and the Troops o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both ſides are ſince that ſeparated and gone to Quarters.</p>
+            <p>
+               <hi>Paru, Oct.</hi> 13. The Ratifications of the Peace are daily expected, and preparations are making to proclaim it h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, ſo ſoon as they arrive from <hi>Holland.</hi> The Ma<g ref="char:EOLhyphen"/>reſchal <hi>Villeroy</hi> is returned from <hi>Flanders.</hi> The Diſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> continues of a great Reform to be made among the French Forces; and in the mean time the King to caſe the People has reſolved to ſuppreſs the Capitation. The Sieur <hi>de Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t logon</hi> ſailed from <hi>Br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> the 9th Inſtant with 7 Men of War which are going to <hi>Toulon</hi> to be laid up there. The Mar<g ref="char:EOLhyphen"/>quis <hi>de Neſinond</hi> arrived at <hi>B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt</hi> the ſame day with his Squadron from <hi>Newfoundland.</hi> without having made any advantage by his Voyage; He was before <hi>St. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> but did not think fit to attempt any thing; Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Engliſh have taken 9 French Merchan men on the Bank of <hi>Newfoundland.</hi> The Duke of <hi>Burgundy</hi> continues diſpoſed. 'Tis ſaid here, that the Prince of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> has 2 ſtrong Party in <hi>Lithuania.</hi>
+            </p>
+            <p>
+               <hi>Bruſſels, Oct.</hi> 20. We are every day expecting the re<g ref="char:EOLhyphen"/>turn of the Courier with the Spaniſh Ratification from <hi>Ma<g ref="char:EOLhyphen"/>drid;</hi> In the mean time the French are preparing to eva<g ref="char:EOLhyphen"/>cuate the Places which they are to give up by the Treaty. All the Engliſh Forces that were in the Camp of <hi>Cockel<g ref="char:EOLhyphen"/>berg</hi> are marched to <hi>Flanders.</hi> The French Troops lie cantoned in the Villages near the Frontiers, but are expect<g ref="char:EOLhyphen"/>ing Orders to march to <hi>France,</hi> where great part of them will be disbanded. The Places which the French are to give up by the Peace, are; <hi>Giron, Roſes, Beluer, B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ona,</hi> and all other Places in <hi>Catalonia</hi> taken ſince the Trea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of <hi>Nimeguen,</hi> to be reſtored in the Condition they now are in; <hi>Luxemburg</hi> with the Province and Principality of <hi>Chimay,</hi> as they are at preſent, as alſo <hi>Chan<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>or Mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Acth,</hi> with their Dependencies, <hi>Courtray,</hi> and all other Places taken during this War; The Reunion ſince the Peace of <hi>Nimeguen</hi> to be annulled; <hi>Dinant</hi> to be reſtored to the Biſhop of <hi>Liege</hi> in the Condition it was taken. Commiſo<g ref="char:EOLhyphen"/>ners are to be appointed on both ſides to regulate Matters about the Reunions, and if they cannot agree, the ſame are to be referred to the Deciſion of the States-General of the <hi>United-Provinces.</hi>
+            </p>
+            <p>
+               <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, Oct.</hi> 21. His Majeſty returned hither on the 17 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from <hi>Dieren,</hi> accompanied by the Elector of <hi>Bavaria</hi> and Prince <hi>Vandemont.</hi> The Count <hi>de Bergyck,</hi> Chief Inten<g ref="char:EOLhyphen"/>dant of the <hi>Spaniſh Low-Countreys,</hi> arrived here the ſame day to adjuſt Matters for the March of the <hi>Brandenburg</hi> Troops out of the <hi>Netherlands;</hi> Monſieur <hi>Dankelman</hi> and Monſieur <hi>Dreſt,</hi> the two <hi>Brandenburg</hi> Miniſters, are here on the ſame occaſion. On the 20th the Count <hi>de Fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſc,</hi> who commands His Majeſty's Forces on the <hi>Rhine,</hi> returned thi<g ref="char:EOLhyphen"/>ther with His Majeſties Directions for reforming thoſe Troops. The contrary Winds having kept the Earl of <hi>Portland</hi> on this ſide the Water, his Lordſhip came hither this afternoon to wait on His Majeſty and intends to re<g ref="char:EOLhyphen"/>turn to morrow to the <hi>Hague.</hi> The Elector of <hi>Bavaria</hi> goes hence to morrow morning. The Yachts and Men or War are ſent for, to attend His Majeſty in His return to <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>
+               <hi>Hague, Oct.</hi> 23. N. S. On the 17th Inſtant His Ma<g ref="char:EOLhyphen"/>jeſty's Ratification of the Peace, under the Great Seal of <hi>England,</hi> was Exchanged with the French Ratification, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Preſence of the Mediator; The French Inſtrument was ſent to His Majeſty at <hi>Leo;</hi> and the Engliſh was diſpatched by an Expreſs to <hi>Verſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lles;</hi> in order to the Proclaming o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Peace on both ſides, His Majeſty's Ambaſſadors have agreed with thoſe of <hi>France,</hi> that the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erm for ceaſing Hoſtilities at Sea ſhall commence <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay of Signing the Treaty, to wit. the Tenth of <hi>September,</hi> Old St<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. The French Ambaſſadors expect general Paſleports from their Court, for ſuch Engliſh Ships, as may have occaſion of them for long Voyages; and with theſe His Majeſty's Ambaſſadors will Exchange Engliſh Paſſeports for a like number of French Ships. All Matters are now Adjuſted between the Imperial and French Ambaſſadors, except that Point only which concerns the Pretention the Dutcheſs of <hi>Orleans</hi> has to part of the Succeſſion of the Elector <hi>Palatin, Charles Lewis</hi> her Father, which will, 'tis believed, be like wiſe ſetled in a day or two. The Earl of <hi>Mancheſter</hi> ar<g ref="char:EOLhyphen"/>rived here on Wedneſday laſt, on his Embaſſy to <hi>Venice.</hi> The Weather has been very Tempe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tuous, and we hear of ſeveral Ships loſt on this Coaſt. The Peace was Pro<g ref="char:EOLhyphen"/>claimed here yeſterday with the uſual Solemnity. Fire<g ref="char:EOLhyphen"/>works and other Demonſtrations of Joy are preparing a<g ref="char:EOLhyphen"/>gainſt His Majeſty's arrival here.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Edw. Jones</hi> in the <hi>Savoy,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
